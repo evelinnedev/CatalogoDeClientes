@@ -1,0 +1,8 @@
+C:\Users\velsa\source\repos\CatalogoClientes\bin\Debug\CatalogoClientes.exe.config
+C:\Users\velsa\source\repos\CatalogoClientes\bin\Debug\CatalogoClientes.exe
+C:\Users\velsa\source\repos\CatalogoClientes\bin\Debug\CatalogoClientes.pdb
+C:\Users\velsa\source\repos\CatalogoClientes\obj\Debug\CatalogoClientes.csproj.AssemblyReference.cache
+C:\Users\velsa\source\repos\CatalogoClientes\obj\Debug\CatalogoClientes.csproj.SuggestedBindingRedirects.cache
+C:\Users\velsa\source\repos\CatalogoClientes\obj\Debug\CatalogoClientes.csproj.CoreCompileInputs.cache
+C:\Users\velsa\source\repos\CatalogoClientes\obj\Debug\CatalogoClientes.exe
+C:\Users\velsa\source\repos\CatalogoClientes\obj\Debug\CatalogoClientes.pdb
